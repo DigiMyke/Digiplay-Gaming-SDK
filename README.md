@@ -42,7 +42,7 @@ pip install aiohttp
 ```
 🔹 Clone the Repository
 ```bash
-git clone https://github.com/yourusername/DigiplayGamingSDK.git
+git clone https://github.com/DigiMyke/DigiplayGamingSDK.git
 cd DigiplayGamingSDK
 pip install -r requirements.txt
 ```
